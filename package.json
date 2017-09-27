@@ -1,0 +1,22 @@
+{
+  "name": "api-ajax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisjuin/api-ajax.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisjuin/api-ajax/issues"
+  },
+  "homepage": "https://github.com/chrisjuin/api-ajax#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
